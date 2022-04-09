@@ -1,1 +1,3 @@
 # bug
+
+Abstract strategy game
